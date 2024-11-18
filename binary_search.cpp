@@ -6,5 +6,6 @@ int binary_search(){
 }
 
 int main(){
+    cout << "Enter your target";
     
 }
