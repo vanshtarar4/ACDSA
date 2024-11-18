@@ -1,7 +1,10 @@
 #include<iostream>
 using namespace std;
 
-int binary
+int binary_search(){
+
+}
+
 int main(){
     
 }
